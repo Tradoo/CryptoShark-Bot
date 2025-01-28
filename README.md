@@ -27,11 +27,11 @@ pip install -r requirements.txt
 
 ## Usage
 1. Clone the repository or download the source code.
-2. Edit the configuration file with your preferred settings (API keys, strategy parameters, etc.).
+2. Download the dependencies..
 3. Run the bot using the following command:
 
    ```bash
-   python crypto_bot.py
+   python main.py
    ```
 
 The bot will start making trades based on the strategies you've set up.
