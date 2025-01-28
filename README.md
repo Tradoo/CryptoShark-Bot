@@ -42,7 +42,7 @@ If you want to contribute to this project, feel free to fork the repository, mak
 ## Support & Donations
 If you find this bot helpful or if you would like to support the ongoing development of the project, feel free to donate to the following crypto wallet address:
 
-**Solana Wallet Address**:  
+**Tether USDT Address**:  
 `0x485a2D81b8AC67A985e883baa2Aa5455130A3176`
 Bnb Chain🔗 Tether USDT💲 
 
